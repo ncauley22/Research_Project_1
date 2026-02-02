@@ -1,0 +1,55 @@
+VARIABLE NAME			DESCRIPTION
+YEAR				Survey Year
+CASEID				ATUS Case ID
+SERIAL				Household Serial Number
+STRATA				Scrambled pseudo primary sampling unit (PSU)
+REGION				Region
+METRO				Metropolitan and central/principal city status
+HH_SIZE				Number of people in household
+HH_NUMKIDS			Number of children under 18 in household
+HH_NUMADULTS			Number of adults in household
+PERNUM				Person number (general)
+LINENO				Person line number
+WT06				Person weight, 2006 methodology
+WT20				Person weight, 2020 methodology
+MONTH				Month of ATUS interview
+DAY				ATUS interview day of the week
+DATE				Date of ATUS diary day
+AGE				Age of respondent
+SEX				Sex of respondent
+RACE				Race of respondent
+HISPAN				Hispanic origin of respondent
+MARST				Marital status of respondent
+EDUC				Highest level of school completed by respondent
+EMPSTAT				Labor force status
+MULTJOBS			Has more than one job
+OCC2				General occupation category, main job
+OCC				Detailed occupation category, main job
+FULLPART			Full time/part time employment status
+UHRSWORKT			Hours usually worked per week
+UHRSWORK1			Hours usually worked per week at main job
+UHRSWORK2			Hours usually worked per week at other jobs
+EARNWEEK			Weekly earnings
+PAIDHOUR			Hourly or non-hourly pay
+HOURWAGE			Hourly earnings
+HRSATRATE			Hours worked at hourly rate
+BLS_CAREHH_KID			Time spent caring for and helping household members: Caring for and helping household children
+BLS_CAREHH_KIDEDUC		Time spent caring for and helping household members: Activities related to household children's education
+BLS_CAREHH_KIDHEALTH		Time spent caring for and helping household members: Activities related to household children's health
+BLS_EDUC			Time spent on educational activities
+BLS_EDUC_CLASS			Time spent on educational activities: Attending class
+BLS_EDUC_HWORK			Time spent on educational activities: Homework and research
+BLS_LEIS			Time spent on leisure and sports
+BLS_LEIS_RELAX			Time spent on leisure and sports: Relaxing and leisure
+BLS_LEIS_SOC			Time spent on leisure and sports: Socializing, relaxing, and leisure
+BLS_LEIS_TV			Time spent on leisure and sports: Watching TV
+BLS_PCARE_ACT			Time spent on personal care: Personal activities
+BLS_PCARE_GROOM			Time spent on personal care: Grooming
+BLS_PCARE_HEALTH		Time spent on personal care: Health-related self care
+BLS_PCARE_SLEEP			Time spent on personal care: Sleeping
+BLS_PCARE_TRAVEL		Time spent on personal care: Travel related to personal care
+BLS_WORK			Time spent on working and work-related activities
+BLS_WORK_OTHER			Time spent on working and work-related activities: Other income-generating activities
+BLS_WORK_TRAVEL			Time spent on working and work-related activities: Travel related to work
+BLS_WORK_WORKING		Time spent on working and work-related activities: Working
+BLS_WORK_WORKREL		Time spent on working and work-related activities: Work-related activities
